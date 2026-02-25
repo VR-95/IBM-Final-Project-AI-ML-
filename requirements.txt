@@ -1,5 +1,6 @@
 streamlit
 groq
-fpdf
+fpdf2
 python-pptx
 python-dotenv
+
